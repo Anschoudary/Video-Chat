@@ -1,0 +1,2 @@
+
+google-generativeai == 2024.2.2
